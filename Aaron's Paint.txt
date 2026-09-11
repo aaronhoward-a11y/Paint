@@ -1,0 +1,23 @@
+Aaron's Paint Version 1.0.0 - 9/11/2026
+
+New features:
+* Open and display image
+* Close the image
+* Save an image
+* Save as an image
+* Menubar
+
+Known Issues:
+* image does not fully fit the program window
+
+Expected next sprint:
+* image will always fit the program window
+* now in JavaFX
+* have JPG, BMP, and PNG support for open, save, and save as
+* ability to draw a line that can be saved on an image
+* ability to manage an image larger than the window and the screen
+* control the width of line the user draws
+* have a color chooser
+* help menu item with help and about options; about is a separate window
+* smart save
+* allow resizing
